@@ -1,0 +1,61 @@
+
+.pagination {
+    position: fixed;
+    bottom: 30px;  /* Adjust as needed */
+    left: 0;    /* Adjust as needed */
+    width: 100%; /* Adjust as needed */
+    background-color: #fff; /* Set a background color if necessary */
+    align-items: center;
+    justify-content: center;
+}
+.form-control search{
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+}
+
+.modal{
+    z-index: 10059;
+    color: black;
+}
+
+.img{
+    
+    height: 20px;
+    width: 20px;
+    z-index: 100;
+    color: white;
+}
+.editButton{
+    // background: none;
+    color: rgba(128, 128, 128, 0.732);
+    box-shadow: 10px;
+    margin-left: 5px;
+    height: 30px;
+    
+    :hover{
+        
+    }
+    
+}
+.table{
+    box-shadow: 10px 10px 5px gray;
+}
+html body{
+    background-color:rgba(227, 223, 223, 0.762)
+}
+.pagination{
+    background: none;
+
+   
+}
+
+.search  {
+    box-shadow: 5px 5px 6px gray;
+    
+    width: 300px;
+    margin: auto;
+    
+    
+    
+}
